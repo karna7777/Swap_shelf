@@ -9,7 +9,6 @@ const Footer = () => {
     <div className='footer'>
         <div className="footer-logo">
             <img src={logo} alt="" height="40px" />
-            <p>Shopify</p>
         </div>
         <ul className='footer-links'>
 <li>About</li>
